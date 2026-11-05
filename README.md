@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Areej Abu Ayesh — Front-End Developer" />
+  <img src="assets/hero.svg" width="100%" alt="Eng. Areej Abu Ayesh — Front-End Developer" />
 </p>
 
 <p align="center">
@@ -15,12 +15,34 @@
 <p align="center"><img src="assets/about.svg" width="300" alt="About" /></p>
 
 <p align="center">
-  Front-End Developer and Computer Systems Engineering student at Al-Azhar University – Gaza.<br/>
-  I turn designs into responsive, accessible interfaces —<br/>
-  with a love for clean code and the quiet details that make a product feel refined.
+  I'm a Front-End Developer who turns ideas into responsive, accessible and thoughtful interfaces.<br/>
+  I build with React and modern JavaScript, write clean and maintainable code,<br/>
+  and care about the quiet details that make a product feel refined.
 </p>
 
-<p align="center"><sub><i>Currently refining my JavaScript and React craft · Open to front-end internships</i></sub></p>
+<br/>
+
+<p align="center"><img src="assets/how.svg" width="300" alt="How I Work" /></p>
+
+<p align="center">
+  <b>Product Thinking</b><br/>
+  <sub>I look beyond the task to the user and the problem behind it,<br/>and propose features and improvements that add real value.</sub>
+</p>
+
+<p align="center">
+  <b>Design to Code</b><br/>
+  <sub>I translate Figma designs into pixel-accurate, reusable components<br/>that stay consistent across every screen size.</sub>
+</p>
+
+<p align="center">
+  <b>Problem Solving</b><br/>
+  <sub>I break complex problems into clear, simple steps<br/>and build solutions that are easy to maintain and extend.</sub>
+</p>
+
+<p align="center">
+  <b>Collaboration</b><br/>
+  <sub>I work closely with designers and backend developers,<br/>and help keep the team aligned from idea to launch.</sub>
+</p>
 
 <br/>
 
@@ -35,7 +57,7 @@
 <p align="center">
   <b>Rentora</b><br/>
   <i>A rental marketplace built around trust — verified profiles, ratings and secure handovers</i><br/>
-  <sub>Front-End Developer & Team Lead Assistant · React · 4th place at a hackathon · Private repository</sub>
+  <sub>Front-End Developer & Team Lead Assistant · Built core pages and shaped key product features · 4th place at a hackathon · Private repository</sub>
 </p>
 
 <br/>
