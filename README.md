@@ -134,16 +134,5 @@ Modern, responsive website for a creative digital agency.
 
 <br/>
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AreejAbuAyesh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=2CB67D&text_color=C9D1D9&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreejAbuAyesh&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" />
-
-<img src="https://streak-stats.demolab.com?user=AreejAbuAyesh&hide_border=true&background=0D1117&ring=A855F7&fire=2CB67D&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-
-</div>
-
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,50:A855F7,100:7F5AF0&height=120&section=footer" />
