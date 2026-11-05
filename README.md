@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/areej-abu-ayesh-691714287">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:areejayesh8@gmail.com">Email</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/AreejAbuAyesh?tab=repositories">Repositories</a>
+  <a href="https://www.linkedin.com/in/areej-abu-ayesh-691714287"><img src="assets/l-linkedin.svg" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:areejayesh8@gmail.com"><img src="assets/l-email.svg" alt="Email" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AreejAbuAyesh?tab=repositories"><img src="assets/l-repos.svg" alt="Repositories" /></a>
 </p>
 
 <br/>
@@ -63,32 +63,32 @@
 <br/>
 
 <p align="center">
-  <a href="https://areejabuayesh.github.io/Turpotic-Luxury/"><b>Turpotic Luxury</b></a><br/>
+  <a href="https://areejabuayesh.github.io/Turpotic-Luxury/"><img src="assets/p-turpotic.svg" alt="Turpotic Luxury" /></a><br/>
   <sub>Luxury cars & motorcycles platform</sub>
 </p>
 
 <p align="center">
-  <a href="https://areejabuayesh.github.io/XTRA-Bicycle/"><b>XTRA Bicycle</b></a><br/>
+  <a href="https://areejabuayesh.github.io/XTRA-Bicycle/"><img src="assets/p-xtra.svg" alt="XTRA Bicycle" /></a><br/>
   <sub>E-commerce bicycle store</sub>
 </p>
 
 <p align="center">
-  <a href="https://areejabuayesh.github.io/-Lazord/"><b>Lazord</b></a><br/>
+  <a href="https://areejabuayesh.github.io/-Lazord/"><img src="assets/p-lazord.svg" alt="Lazord" /></a><br/>
   <sub>Arabic website for a digital dental lab</sub>
 </p>
 
 <p align="center">
-  <a href="https://areejabuayesh.github.io/University-Website/"><b>University Website</b></a><br/>
+  <a href="https://areejabuayesh.github.io/University-Website/"><img src="assets/p-university.svg" alt="University Website" /></a><br/>
   <sub>Responsive university website</sub>
 </p>
 
 <p align="center">
-  <a href="https://areejabuayesh.github.io/Skywings/"><b>Skywings</b></a><br/>
+  <a href="https://areejabuayesh.github.io/Skywings/"><img src="assets/p-skywings.svg" alt="Skywings" /></a><br/>
   <sub>Travel agency website</sub>
 </p>
 
 <p align="center">
-  <a href="https://areejabuayesh.github.io/lilia-project/"><b>Lilia</b></a><br/>
+  <a href="https://areejabuayesh.github.io/lilia-project/"><img src="assets/p-lilia.svg" alt="Lilia" /></a><br/>
   <sub>Creative digital agency website</sub>
 </p>
 
