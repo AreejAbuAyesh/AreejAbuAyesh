@@ -1,236 +1,52 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:603B47,50:8A5C5A,100:C95558&height=230&section=header&text=Areej%20Abu%20Ayesh&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Front-End%20Developer%20%E2%80%A2%20Computer%20Systems%20Engineering&descSize=17&descAlignY=58&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5EFE6,50:E6D5C3,100:C8A98B&height=190&section=header&text=Areej%20Abu%20Ayesh&fontSize=44&fontColor=3E2C23&fontAlignY=38&desc=Front-End%20Developer&descSize=16&descAlignY=60&descColor=8B6F5C" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=B76E79&center=true&vCenter=true&width=640&lines=Building+responsive%2C+interactive+web+experiences;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Turning+designs+into+clean%2C+usable+interfaces;Open+to+front-end+internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3500&pause=1200&color=8B6F5C&center=true&vCenter=true&width=560&lines=Crafting+clean+and+thoughtful+interfaces;Turning+designs+into+living+websites" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Based%20in-Gaza%2C%20Palestine-2B1E23?style=flat-square&labelColor=603B47" />
-<img src="https://img.shields.io/badge/Class%20of-2027-2B1E23?style=flat-square&labelColor=8A5C5A" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2B1E23?style=flat-square&labelColor=C95558" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/areej-abu-ayesh-691714287"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:areejayesh8@gmail.com"><img src="https://img.shields.io/badge/Email-603B47?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/AreejAbuAyesh?tab=repositories"><img src="https://img.shields.io/badge/Projects-C95558?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/areej-abu-ayesh-691714287"><img src="https://img.shields.io/badge/LinkedIn-8B6F5C?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:areejayesh8@gmail.com"><img src="https://img.shields.io/badge/Email-C8A98B?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:603B47,50:8A5C5A,100:C95558&height=3" />
+<br/>
 
-## About Me
+### About
 
-<table>
-<tr>
-<td width="62%" valign="top">
+Front-End Developer and Computer Systems Engineering student at Al-Azhar University – Gaza.
+I turn designs into responsive, accessible interfaces, with attention to clean code and the small details that make a product feel polished.
 
-I am a **Front-End Developer** and a **Computer Systems Engineering** student at **Al-Azhar University – Gaza**.
-
-I enjoy turning UI/UX designs into responsive, accessible and interactive interfaces, and I care about clean, maintainable code and the small details that make a product feel polished.
-
-</td>
-<td width="38%" valign="top">
-
-**Quick Facts**
-
-- **Now:** Front-End Developer at **Rentora**
-- **Learning:** Advanced JavaScript & React
-- **Training:** TAQAT Academy, Webrua
-- **Goal:** Front-end internship
-
-</td>
-</tr>
-</table>
+Currently strengthening my JavaScript and React skills, and open to front-end internships.
 
 <br/>
 
-## What I Do
+### Tech Stack
 
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/01-603B47?style=for-the-badge" />
-
-**Responsive Interfaces**
-
-Pixel-accurate layouts that work smoothly on every screen size.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/02-8A5C5A?style=for-the-badge" />
-
-**Interactive Web Apps**
-
-Dynamic features with JavaScript and React — carts, search, filters and state.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/03-C95558?style=for-the-badge" />
-
-**Design to Code**
-
-Translating Figma designs into clean, reusable front-end components.
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:603B47,50:8A5C5A,100:C95558&height=3" />
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:603B47,50:8A5C5A,100:C95558&height=3" />
-
-## Featured Work
-
-<table>
-<tr>
-<td width="100%">
-
-<h3>Rentora &nbsp; <img src="https://img.shields.io/badge/Private%20Repository-2B1E23?style=flat-square&logo=lock&logoColor=8A5C5A" /> <img src="https://img.shields.io/badge/Hackathon-4th%20Place-C95558?style=flat-square" /></h3>
-
-A rental marketplace platform that connects lessors and renters across real estate, vehicles, equipment and event spaces, built around a trust system.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Key Features**
-
-- Verified profiles and ratings
-- Lessor trust record and badges
-- Rental requests and bookings
-- Secure handover documentation
-
-</td>
-<td width="50%" valign="top">
-
-**My Role**
-
-- Front-End Developer
-- Team Lead Assistant
-- Built core platform pages
-- Contributed product ideas and features
-
-</td>
-</tr>
-</table>
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Figma-1E1E1E?style=flat-square&logo=figma&logoColor=F24E1E" /> <img src="https://img.shields.io/badge/Team%20Project-603B47?style=flat-square" />
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma&theme=light" />
 
 <br/>
 
-## Projects
+### Featured — Rentora
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>Turpotic Luxury</h3>
-
-Luxury cars and motorcycles platform with a dynamic cart, real-time search and a flexible rental system.
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-<a href="https://areejabuayesh.github.io/Turpotic-Luxury/"><img src="https://img.shields.io/badge/Live%20Demo-603B47?style=for-the-badge" /></a>
-<a href="https://github.com/AreejAbuAyesh/Turpotic-Luxury"><img src="https://img.shields.io/badge/Code-2B1E23?style=for-the-badge&logo=github" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>XTRA Bicycle</h3>
-
-Dark-themed e-commerce store for bicycles and accessories, with a cart and a wishlist saved in localStorage.
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-<a href="https://areejabuayesh.github.io/XTRA-Bicycle/"><img src="https://img.shields.io/badge/Live%20Demo-603B47?style=for-the-badge" /></a>
-<a href="https://github.com/AreejAbuAyesh/XTRA-Bicycle"><img src="https://img.shields.io/badge/Code-2B1E23?style=for-the-badge&logo=github" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>Lazord</h3>
-
-Complete multi-page Arabic (RTL) website for a digital dental laboratory.
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/RTL-C95558?style=flat-square" />
-
-<a href="https://areejabuayesh.github.io/-Lazord/"><img src="https://img.shields.io/badge/Live%20Demo-C95558?style=for-the-badge" /></a>
-<a href="https://github.com/AreejAbuAyesh/-Lazord"><img src="https://img.shields.io/badge/Code-2B1E23?style=for-the-badge&logo=github" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>University Website</h3>
-
-Fully responsive university website with structured academic sections.
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-<a href="https://areejabuayesh.github.io/University-Website/"><img src="https://img.shields.io/badge/Live%20Demo-C95558?style=for-the-badge" /></a>
-<a href="https://github.com/AreejAbuAyesh/University-Website"><img src="https://img.shields.io/badge/Code-2B1E23?style=for-the-badge&logo=github" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>Skywings</h3>
-
-Travel agency website with smooth scrolling, a testimonial slider and destination cards.
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Swiper.js-6332F6?style=flat-square&logo=swiper&logoColor=white" />
-
-<a href="https://areejabuayesh.github.io/Skywings/"><img src="https://img.shields.io/badge/Live%20Demo-8A5C5A?style=for-the-badge" /></a>
-<a href="https://github.com/AreejAbuAyesh/Skywings"><img src="https://img.shields.io/badge/Code-2B1E23?style=for-the-badge&logo=github" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>Lilia</h3>
-
-Modern, responsive website for a creative digital agency.
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-<a href="https://areejabuayesh.github.io/lilia-project/"><img src="https://img.shields.io/badge/Live%20Demo-8A5C5A?style=for-the-badge" /></a>
-<a href="https://github.com/AreejAbuAyesh/lilia-project"><img src="https://img.shields.io/badge/Code-2B1E23?style=for-the-badge&logo=github" /></a>
-
-</td>
-</tr>
-</table>
+A rental marketplace platform built around a trust system — verified profiles, ratings and secure handovers.
+Front-End Developer and Team Lead Assistant · React · 4th place at a hackathon · *Private repository*
 
 <br/>
 
-<div align="center">
+### Projects
 
-**Let's build something together.**
+**[Turpotic Luxury](https://github.com/AreejAbuAyesh/Turpotic-Luxury)** — Luxury cars and motorcycles platform with cart, search and rentals. &nbsp;[Live](https://areejabuayesh.github.io/Turpotic-Luxury/)
 
-<a href="https://www.linkedin.com/in/areej-abu-ayesh-691714287"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:areejayesh8@gmail.com"><img src="https://img.shields.io/badge/areejayesh8%40gmail.com-603B47?style=flat-square&logo=gmail&logoColor=white" /></a>
+**[XTRA Bicycle](https://github.com/AreejAbuAyesh/XTRA-Bicycle)** — E-commerce store for bicycles with cart and wishlist. &nbsp;[Live](https://areejabuayesh.github.io/XTRA-Bicycle/)
 
-</div>
+**[Lazord](https://github.com/AreejAbuAyesh/-Lazord)** — Multi-page Arabic website for a digital dental lab. &nbsp;[Live](https://areejabuayesh.github.io/-Lazord/)
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C95558,50:8A5C5A,100:603B47&height=130&section=footer" />
+**[University Website](https://github.com/AreejAbuAyesh/University-Website)** — Fully responsive university website. &nbsp;[Live](https://areejabuayesh.github.io/University-Website/)
+
+**[Skywings](https://github.com/AreejAbuAyesh/Skywings)** — Travel agency website with smooth interactions. &nbsp;[Live](https://areejabuayesh.github.io/Skywings/)
+
+**[Lilia](https://github.com/AreejAbuAyesh/lilia-project)** — Website for a creative digital agency. &nbsp;[Live](https://areejabuayesh.github.io/lilia-project/)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A98B,50:E6D5C3,100:F5EFE6&height=100&section=footer" />
