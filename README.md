@@ -1,25 +1,25 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:A855F7,100:2CB67D&height=230&section=header&text=Areej%20Abu%20Ayesh&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Front-End%20Developer%20%E2%80%A2%20Computer%20Systems%20Engineering&descSize=17&descAlignY=58&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:603B47,50:8A5C5A,100:C95558&height=230&section=header&text=Areej%20Abu%20Ayesh&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Front-End%20Developer%20%E2%80%A2%20Computer%20Systems%20Engineering&descSize=17&descAlignY=58&animation=twinkling" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=640&lines=Building+responsive%2C+interactive+web+experiences;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Turning+designs+into+clean%2C+usable+interfaces;Open+to+front-end+internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=B76E79&center=true&vCenter=true&width=640&lines=Building+responsive%2C+interactive+web+experiences;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Turning+designs+into+clean%2C+usable+interfaces;Open+to+front-end+internships" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Based%20in-Gaza%2C%20Palestine-1F1F2E?style=flat-square&labelColor=7F5AF0" />
-<img src="https://img.shields.io/badge/Class%20of-2027-1F1F2E?style=flat-square&labelColor=A855F7" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-1F1F2E?style=flat-square&labelColor=2CB67D" />
+<img src="https://img.shields.io/badge/Based%20in-Gaza%2C%20Palestine-2B1E23?style=flat-square&labelColor=603B47" />
+<img src="https://img.shields.io/badge/Class%20of-2027-2B1E23?style=flat-square&labelColor=8A5C5A" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2B1E23?style=flat-square&labelColor=C95558" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/areej-abu-ayesh-691714287"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:areejayesh8@gmail.com"><img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/AreejAbuAyesh?tab=repositories"><img src="https://img.shields.io/badge/Projects-2CB67D?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:areejayesh8@gmail.com"><img src="https://img.shields.io/badge/Email-603B47?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/AreejAbuAyesh?tab=repositories"><img src="https://img.shields.io/badge/Projects-C95558?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,50:A855F7,100:2CB67D&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:603B47,50:8A5C5A,100:C95558&height=3" />
 
 ## About Me
 
@@ -53,7 +53,7 @@ I enjoy turning UI/UX designs into responsive, accessible and interactive interf
 <tr>
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/01-7F5AF0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/01-603B47?style=for-the-badge" />
 
 **Responsive Interfaces**
 
@@ -62,7 +62,7 @@ Pixel-accurate layouts that work smoothly on every screen size.
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/02-A855F7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/02-8A5C5A?style=for-the-badge" />
 
 **Interactive Web Apps**
 
@@ -71,7 +71,7 @@ Dynamic features with JavaScript and React — carts, search, filters and state.
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/03-2CB67D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/03-C95558?style=for-the-badge" />
 
 **Design to Code**
 
@@ -81,7 +81,7 @@ Translating Figma designs into clean, reusable front-end components.
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,50:A855F7,100:2CB67D&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:603B47,50:8A5C5A,100:C95558&height=3" />
 
 ## Tech Stack
 
@@ -93,7 +93,7 @@ Translating Figma designs into clean, reusable front-end components.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,50:A855F7,100:2CB67D&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:603B47,50:8A5C5A,100:C95558&height=3" />
 
 ## Featured Work
 
@@ -101,7 +101,7 @@ Translating Figma designs into clean, reusable front-end components.
 <tr>
 <td width="100%">
 
-<h3>Rentora &nbsp; <img src="https://img.shields.io/badge/Private%20Repository-1F1F2E?style=flat-square&logo=lock&logoColor=A855F7" /> <img src="https://img.shields.io/badge/Hackathon-4th%20Place-2CB67D?style=flat-square" /></h3>
+<h3>Rentora &nbsp; <img src="https://img.shields.io/badge/Private%20Repository-2B1E23?style=flat-square&logo=lock&logoColor=8A5C5A" /> <img src="https://img.shields.io/badge/Hackathon-4th%20Place-C95558?style=flat-square" /></h3>
 
 A rental marketplace platform that connects lessors and renters across real estate, vehicles, equipment and event spaces, built around a trust system.
 
@@ -130,7 +130,7 @@ A rental marketplace platform that connects lessors and renters across real esta
 </tr>
 </table>
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Figma-1E1E1E?style=flat-square&logo=figma&logoColor=F24E1E" /> <img src="https://img.shields.io/badge/Team%20Project-7F5AF0?style=flat-square" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Figma-1E1E1E?style=flat-square&logo=figma&logoColor=F24E1E" /> <img src="https://img.shields.io/badge/Team%20Project-603B47?style=flat-square" />
 
 </td>
 </tr>
@@ -150,8 +150,8 @@ Luxury cars and motorcycles platform with a dynamic cart, real-time search and a
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
-<a href="https://areejabuayesh.github.io/Turpotic-Luxury/"><img src="https://img.shields.io/badge/Live%20Demo-7F5AF0?style=for-the-badge" /></a>
-<a href="https://github.com/AreejAbuAyesh/Turpotic-Luxury"><img src="https://img.shields.io/badge/Code-1F1F2E?style=for-the-badge&logo=github" /></a>
+<a href="https://areejabuayesh.github.io/Turpotic-Luxury/"><img src="https://img.shields.io/badge/Live%20Demo-603B47?style=for-the-badge" /></a>
+<a href="https://github.com/AreejAbuAyesh/Turpotic-Luxury"><img src="https://img.shields.io/badge/Code-2B1E23?style=for-the-badge&logo=github" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -162,8 +162,8 @@ Dark-themed e-commerce store for bicycles and accessories, with a cart and a wis
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
-<a href="https://areejabuayesh.github.io/XTRA-Bicycle/"><img src="https://img.shields.io/badge/Live%20Demo-7F5AF0?style=for-the-badge" /></a>
-<a href="https://github.com/AreejAbuAyesh/XTRA-Bicycle"><img src="https://img.shields.io/badge/Code-1F1F2E?style=for-the-badge&logo=github" /></a>
+<a href="https://areejabuayesh.github.io/XTRA-Bicycle/"><img src="https://img.shields.io/badge/Live%20Demo-603B47?style=for-the-badge" /></a>
+<a href="https://github.com/AreejAbuAyesh/XTRA-Bicycle"><img src="https://img.shields.io/badge/Code-2B1E23?style=for-the-badge&logo=github" /></a>
 
 </td>
 </tr>
@@ -174,10 +174,10 @@ Dark-themed e-commerce store for bicycles and accessories, with a cart and a wis
 
 Complete multi-page Arabic (RTL) website for a digital dental laboratory.
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/RTL-2CB67D?style=flat-square" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/RTL-C95558?style=flat-square" />
 
-<a href="https://areejabuayesh.github.io/-Lazord/"><img src="https://img.shields.io/badge/Live%20Demo-2CB67D?style=for-the-badge" /></a>
-<a href="https://github.com/AreejAbuAyesh/-Lazord"><img src="https://img.shields.io/badge/Code-1F1F2E?style=for-the-badge&logo=github" /></a>
+<a href="https://areejabuayesh.github.io/-Lazord/"><img src="https://img.shields.io/badge/Live%20Demo-C95558?style=for-the-badge" /></a>
+<a href="https://github.com/AreejAbuAyesh/-Lazord"><img src="https://img.shields.io/badge/Code-2B1E23?style=for-the-badge&logo=github" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -188,8 +188,8 @@ Fully responsive university website with structured academic sections.
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
-<a href="https://areejabuayesh.github.io/University-Website/"><img src="https://img.shields.io/badge/Live%20Demo-2CB67D?style=for-the-badge" /></a>
-<a href="https://github.com/AreejAbuAyesh/University-Website"><img src="https://img.shields.io/badge/Code-1F1F2E?style=for-the-badge&logo=github" /></a>
+<a href="https://areejabuayesh.github.io/University-Website/"><img src="https://img.shields.io/badge/Live%20Demo-C95558?style=for-the-badge" /></a>
+<a href="https://github.com/AreejAbuAyesh/University-Website"><img src="https://img.shields.io/badge/Code-2B1E23?style=for-the-badge&logo=github" /></a>
 
 </td>
 </tr>
@@ -202,8 +202,8 @@ Travel agency website with smooth scrolling, a testimonial slider and destinatio
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Swiper.js-6332F6?style=flat-square&logo=swiper&logoColor=white" />
 
-<a href="https://areejabuayesh.github.io/Skywings/"><img src="https://img.shields.io/badge/Live%20Demo-A855F7?style=for-the-badge" /></a>
-<a href="https://github.com/AreejAbuAyesh/Skywings"><img src="https://img.shields.io/badge/Code-1F1F2E?style=for-the-badge&logo=github" /></a>
+<a href="https://areejabuayesh.github.io/Skywings/"><img src="https://img.shields.io/badge/Live%20Demo-8A5C5A?style=for-the-badge" /></a>
+<a href="https://github.com/AreejAbuAyesh/Skywings"><img src="https://img.shields.io/badge/Code-2B1E23?style=for-the-badge&logo=github" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -214,8 +214,8 @@ Modern, responsive website for a creative digital agency.
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
-<a href="https://areejabuayesh.github.io/lilia-project/"><img src="https://img.shields.io/badge/Live%20Demo-A855F7?style=for-the-badge" /></a>
-<a href="https://github.com/AreejAbuAyesh/lilia-project"><img src="https://img.shields.io/badge/Code-1F1F2E?style=for-the-badge&logo=github" /></a>
+<a href="https://areejabuayesh.github.io/lilia-project/"><img src="https://img.shields.io/badge/Live%20Demo-8A5C5A?style=for-the-badge" /></a>
+<a href="https://github.com/AreejAbuAyesh/lilia-project"><img src="https://img.shields.io/badge/Code-2B1E23?style=for-the-badge&logo=github" /></a>
 
 </td>
 </tr>
@@ -228,9 +228,9 @@ Modern, responsive website for a creative digital agency.
 **Let's build something together.**
 
 <a href="https://www.linkedin.com/in/areej-abu-ayesh-691714287"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:areejayesh8@gmail.com"><img src="https://img.shields.io/badge/areejayesh8%40gmail.com-7F5AF0?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:areejayesh8@gmail.com"><img src="https://img.shields.io/badge/areejayesh8%40gmail.com-603B47?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,50:A855F7,100:7F5AF0&height=130&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C95558,50:8A5C5A,100:603B47&height=130&section=footer" />
