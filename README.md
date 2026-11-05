@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Eng. Areej Abu Ayesh — Front-End Developer" />
+  <img src="assets/hero.svg?v=3" width="100%" alt="Eng. Areej Abu Ayesh — Front-End Developer" />
 </p>
 
 <p align="center">
@@ -63,32 +63,32 @@
 <br/>
 
 <p align="center">
-  <a href="https://areejabuayesh.github.io/Turpotic-Luxury/"><img src="assets/p-turpotic.svg" alt="Turpotic Luxury" /></a><br/>
+  <a href="https://areejabuayesh.github.io/Turpotic-Luxury/"><img src="assets/p-turpotic.svg?v=2" alt="Turpotic Luxury" /></a><br/>
   <sub>Luxury cars & motorcycles platform</sub>
 </p>
 
 <p align="center">
-  <a href="https://areejabuayesh.github.io/XTRA-Bicycle/"><img src="assets/p-xtra.svg" alt="XTRA Bicycle" /></a><br/>
+  <a href="https://areejabuayesh.github.io/XTRA-Bicycle/"><img src="assets/p-xtra.svg?v=2" alt="XTRA Bicycle" /></a><br/>
   <sub>E-commerce bicycle store</sub>
 </p>
 
 <p align="center">
-  <a href="https://areejabuayesh.github.io/-Lazord/"><img src="assets/p-lazord.svg" alt="Lazord" /></a><br/>
+  <a href="https://areejabuayesh.github.io/-Lazord/"><img src="assets/p-lazord.svg?v=2" alt="Lazord" /></a><br/>
   <sub>Arabic website for a digital dental lab</sub>
 </p>
 
 <p align="center">
-  <a href="https://areejabuayesh.github.io/University-Website/"><img src="assets/p-university.svg" alt="University Website" /></a><br/>
+  <a href="https://areejabuayesh.github.io/University-Website/"><img src="assets/p-university.svg?v=2" alt="University Website" /></a><br/>
   <sub>Responsive university website</sub>
 </p>
 
 <p align="center">
-  <a href="https://areejabuayesh.github.io/Skywings/"><img src="assets/p-skywings.svg" alt="Skywings" /></a><br/>
+  <a href="https://areejabuayesh.github.io/Skywings/"><img src="assets/p-skywings.svg?v=2" alt="Skywings" /></a><br/>
   <sub>Travel agency website</sub>
 </p>
 
 <p align="center">
-  <a href="https://areejabuayesh.github.io/lilia-project/"><img src="assets/p-lilia.svg" alt="Lilia" /></a><br/>
+  <a href="https://areejabuayesh.github.io/lilia-project/"><img src="assets/p-lilia.svg?v=2" alt="Lilia" /></a><br/>
   <sub>Creative digital agency website</sub>
 </p>
 
