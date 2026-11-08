@@ -52,6 +52,22 @@
 
 <br/>
 
+<p align="center"><img src="assets/experience.svg" width="300" alt="Experience" /></p>
+
+<p align="center">
+  <b>Front-End Developer · TAQAT, CodeMap 2026</b><br/>
+  <i>Team of 4 · until Nov 2026</i><br/>
+  <sub>Built Rentora, an Arabic rental platform, turning Figma designs into responsive React pages.<br/>Connected the interface to a REST API and built each page's states and access logic.<br/>Documented missing API endpoints for the back-end team so the front end was ready on time.</sub>
+</p>
+
+<p align="center">
+  <b>Front-End Intern · WebUra</b><br/>
+  <i>Apr 2026 – Jun 2026</i><br/>
+  <sub>Completed a range of front-end tasks and contributed to several team projects.<br/>Recognised for dedication, discipline, professionalism and teamwork.</sub>
+</p>
+
+<br/>
+
 <p align="center"><img src="assets/work.svg" width="300" alt="Selected Work" /></p>
 
 <p align="center">
@@ -90,6 +106,30 @@
 <p align="center">
   <a href="https://areejabuayesh.github.io/lilia-project/"><img src="assets/p-lilia.svg?v=2" alt="Lilia" /></a><br/>
   <sub>Creative digital agency website</sub>
+</p>
+
+<br/>
+
+<p align="center"><img src="assets/certifications.svg" width="300" alt="Certifications" /></p>
+
+<p align="center">
+  <b><a href="https://taqat.academy/verify/TQ-2026-00782">CodeMap 2026 Training Program</a></b><br/>
+  <sub>TAQAT · Nov 2026 · 144 hours</sub>
+</p>
+
+<p align="center">
+  <b>Front-End Internship: Training Completion</b><br/>
+  <sub>WebUra · Jun 2026</sub>
+</p>
+
+<p align="center">
+  <b>Claude Code 101</b>&nbsp;&nbsp;·&nbsp;&nbsp;<b>AI Fluency: Framework & Foundations</b><br/>
+  <sub>Anthropic</sub>
+</p>
+
+<p align="center">
+  <b>Front-End Training Course</b><br/>
+  <sub>Learn More · Sep 2023 · 60 hours</sub>
 </p>
 
 <br/>
