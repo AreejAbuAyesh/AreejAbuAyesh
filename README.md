@@ -55,15 +55,7 @@
 <p align="center"><img src="assets/experience.svg" width="300" alt="Experience" /></p>
 
 <p align="center">
-  <b>Front-End Developer · TAQAT, CodeMap 2026</b><br/>
-  <i>Team of 4 · until Nov 2026</i><br/>
-  <sub>Built Rentora, an Arabic rental platform, turning Figma designs into responsive React pages.<br/>Connected the interface to a REST API and built each page's states and access logic.<br/>Documented missing API endpoints for the back-end team so the front end was ready on time.</sub>
-</p>
-
-<p align="center">
-  <b>Front-End Intern · WebUra</b><br/>
-  <i>Apr 2026 – Jun 2026</i><br/>
-  <sub>Completed a range of front-end tasks and contributed to several team projects.<br/>Recognised for dedication, discipline, professionalism and teamwork.</sub>
+  <img src="assets/experience-card.svg" width="100%" alt="Front-End Developer at TAQAT CodeMap 2026 (team of 4, until Nov 2026): built Rentora, an Arabic rental platform, from Figma designs into responsive React pages; connected the interface to a REST API with page states and access logic; documented missing API endpoints for the back-end team. Front-End Intern at WebUra (Apr 2026 to Jun 2026): completed front-end tasks and contributed to team projects; recognised for dedication, discipline, professionalism and teamwork." />
 </p>
 
 <br/>
@@ -113,23 +105,11 @@
 <p align="center"><img src="assets/certifications.svg" width="300" alt="Certifications" /></p>
 
 <p align="center">
-  <b><a href="https://taqat.academy/verify/TQ-2026-00782">CodeMap 2026 Training Program</a></b><br/>
-  <sub>TAQAT · Nov 2026 · 144 hours</sub>
+  <img src="assets/certifications-card.svg" width="100%" alt="CodeMap 2026 Training Program, TAQAT, Nov 2026, 144 hours. Front-End Internship: Training Completion, WebUra, Jun 2026. Claude Code 101, Anthropic. AI Fluency: Framework and Foundations, Anthropic. Front-End Training Course, Learn More, Sep 2023, 60 hours." />
 </p>
 
 <p align="center">
-  <b>Front-End Internship: Training Completion</b><br/>
-  <sub>WebUra · Jun 2026</sub>
-</p>
-
-<p align="center">
-  <b>Claude Code 101</b>&nbsp;&nbsp;·&nbsp;&nbsp;<b>AI Fluency: Framework & Foundations</b><br/>
-  <sub>Anthropic</sub>
-</p>
-
-<p align="center">
-  <b>Front-End Training Course</b><br/>
-  <sub>Learn More · Sep 2023 · 60 hours</sub>
+  <a href="https://taqat.academy/verify/TQ-2026-00782"><img src="assets/l-verify.svg" alt="Verify CodeMap certificate" /></a>
 </p>
 
 <br/>
